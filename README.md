@@ -1,15 +1,15 @@
-# Tandem — Bridging Deaf and Hearing Communities
+# Tandem 
 
-Tandem is a real-time video conferencing application that enables natural communication between deaf and hearing individuals. A deaf user signs via webcam; the ML model recognises the ASL letter/gesture, converts it to text, and the hearing user hears it spoken aloud — and vice versa, speech is captioned and rendered as a signing avatar.
+Tandem is a near-real-time video conferencing application that enables natural communication between Deaf or Hard of Hearing(DHH) and hearing individuals. A DHH user signs via webcam; the ML model recognises the ASL letter/gesture, converts it to text, and the hearing user hears it spoken aloud and vice versa, speech is captioned and rendered as a signing avatar.
 
 ---
 
 ## Sub-projects
 
-| Folder | Status | Purpose |
-|---|---|---|
-| [`tandem-app/`](tandem-app/) | ✅ **Active** | The full application — run this |
-| [`ASL-interpreter/`](ASL-interpreter/) | 📚 Reference | Standalone training pipeline (data collection, model training, inference scripts) |
+| Folder | Purpose |
+|---|---|
+| [`tandem-app/`](tandem-app/) | The full application — run this |
+| [`ASL-interpreter/`](ASL-interpreter/) | Standalone training pipeline (data collection, model training, inference scripts) |
 
 > `chat-vid/` was a previous prototype and has been removed.
 

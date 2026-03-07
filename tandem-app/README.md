@@ -1,4 +1,4 @@
-# Tandem — Bridging Deaf and Hearing Communities
+# Tandem
 
 A unified video conferencing app that enables real-time communication between deaf and hearing individuals using ASL recognition, a signing avatar, and Google Cloud speech services.
 
